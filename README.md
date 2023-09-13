@@ -1,3 +1,4 @@
+![logo](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">I am passionate about my work because I love what I do and learn from it.</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="code" width="400"/>
