@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ayushku011101" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushku011101?logo=twitter&style=for-the-badge" alt="@ayushku011101" /></a> </p>
 
-- 🔭 I’m currently working on **ATILLA TECHNOLOGY**
-
+- 🔭 I’m currently working on **ATILLA TECHNOLOGY** and **ATGWorld Networks Pvt. Ltd**
 - 🌱 I’m currently learning **Framework etc..**
 
 - 👨‍💻 All of my projects are available at [https://ayush-kumar-git-main-neo-ayush-jha.vercel.app/](https://ayush-kumar-git-main-neo-ayush-jha.vercel.app/)
