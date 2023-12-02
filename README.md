@@ -26,7 +26,7 @@
 <a href="https://twitter.com/@ayushku011101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayushku011101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-kumar-jha-273a99248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-jha-273a99248" height="30" width="40" /></a>
 <a href="https://fb.com/ayushkumar.jha.3760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushkumar.jha.3760" height="30" width="40" /></a>
-<a href="https://instagram.com/__ay_ush__jha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ay_ush__jha_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/neo.ayush.jha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ayush-jha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
