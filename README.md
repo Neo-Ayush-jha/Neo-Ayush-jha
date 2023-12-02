@@ -11,7 +11,7 @@
 - -   **ATGWorld Networks Pvt. Ltd**
 - 🌱 I’m currently learning **Framework etc..**
 
-- 👨‍💻 All of my projects are available at [https://ayush-portfolio-ec74.vercel.app/](https://ayush-portfolio-ec74.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-portfolio-ec74.vercel.app/)
 
 - 💬 Ask me about **next.js , django**
 
