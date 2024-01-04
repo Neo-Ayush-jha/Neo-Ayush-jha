@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on
 - 1.)  **ATILLA TECHNOLOGY 10-MAY-2023 to 10-NOVEMBER-2023**
-- 2.)   **ATGWorld Networks Pvt. Ltd**13-SEPTEMBER-2023 TO PRESENT** 
+- 2.)   **ATGWorld Networks Pvt. Ltd 13-SEPTEMBER-2023 TO PRESENT** 
 - 3.)   **Incupad India Pvt Ltd 10- DESEMBER-2023 TO PRESENT**
 - 🌱 I’m currently learning **Framework etc..**
 
