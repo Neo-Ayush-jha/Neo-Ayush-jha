@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/@ayushku011101" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushku011101?logo=twitter&style=for-the-badge" alt="@ayushku011101" /></a> </p>
 
 - 🔭 I’m currently working on
-- -   1.**ATILLA TECHNOLOGY**10-MAY-2023 to 10-NOVEMBER-2023**
-- -   1.**ATGWorld Networks Pvt. Ltd**13-SEPTEMBER-2023 TO PRESENT** 
-- -   1.**Incupad India Pvt Ltd 10- DESEMBER-2023 TO PRESENT**
+- 1  **ATILLA TECHNOLOGY**10-MAY-2023 to 10-NOVEMBER-2023**
+- 2   **ATGWorld Networks Pvt. Ltd**13-SEPTEMBER-2023 TO PRESENT** 
+- 3   **Incupad India Pvt Ltd 10- DESEMBER-2023 TO PRESENT**
 - 🌱 I’m currently learning **Framework etc..**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-portfolio-ec74.vercel.app/)
