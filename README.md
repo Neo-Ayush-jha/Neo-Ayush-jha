@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on
 - -   **ATILLA TECHNOLOGY**
 - -   **ATGWorld Networks Pvt. Ltd**
+- -   **Incupad India Pvt Ltd**
 - 🌱 I’m currently learning **Framework etc..**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-portfolio-ec74.vercel.app/)
