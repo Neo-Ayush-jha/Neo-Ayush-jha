@@ -1,4 +1,4 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/1400/e87a6c63590071.5abbfb634deca.gif)
+![logo](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">I am passionate about my work because I love what I do and learn from it.</h3>
