@@ -13,7 +13,7 @@
 - 3.)   **Incupad India Pvt Ltd 10- DESEMBER-2023 TO PRESENT**
 - 🌱 I’m currently learning **Framework etc..**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-portfolio-ec74.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://ayush-portfolio-ec74.vercel.app/](https://ayush-portfolio-ec74-neo-ayush-jha.vercel.app/))
 
 - 💬 Ask me about **next.js , django**
 
