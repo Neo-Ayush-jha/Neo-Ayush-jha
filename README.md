@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
+![logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">I am passionate about my work because I love what I do and learn from it.</h3>
