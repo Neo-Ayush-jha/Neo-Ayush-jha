@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ayush91176@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://resume.io/r/LMRIDnopW)
+- 📄 Know about my experiences [RESUME](https://ayush-jha.netlify.app/proj/AyushKumarResume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
