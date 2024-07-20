@@ -19,8 +19,7 @@
 
 - 📫 How to reach me **ayush91176@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://ayush-jha.netlify.app/proj/AyushKumarResume.pdf)
-
+- 📄 Know about my experiences [RESUME](https://www.canva.com/design/DAGGz5TekJk/EyqUMfDZ7ngqDoHKfarV5Q/view?utm_content=DAGGz5TekJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
