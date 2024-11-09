@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on
 - 1.)  **ATILLA TECHNOLOGY 10-MAY-2023 to 10-NOVEMBER-2023**
 - 2.)   **ATGWorld Networks Pvt. Ltd 13-SEPTEMBER-2023 TO 13-MARCH-2024** 
-- 3.)   **Incupad India Pvt Ltd 12-DESEMBER-2023 TO PRESENT**
+- 3.)   **Incupad India Pvt Ltd 12-DESEMBER-2023 TO 12-SEPTEMBER-2024**
 - 🌱 I’m currently learning **Framework etc..**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-jha.netlify.app/)
