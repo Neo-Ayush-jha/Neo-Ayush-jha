@@ -15,8 +15,8 @@
 
 - 🔭 I’m currently working on:
   1. **Atilla Technologies from March 2023 to August 2023**
-  2. **Banao Technologies from August 2023 TO MARCH 2024**
-  3. **Incupad India Pvt Ltd from December 2023 TO November 2024**
+  2. **Banao Technologies from August 2023 to MARCH 2024**
+  3. **Incupad India Pvt Ltd from December 2023 to November 2024**
   4. **Celebal Technologies from June 2025 to August 2025**
 - 🌱 I’m currently learning **Frameworks & Tools**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ayush-jha.netlify.app/)
