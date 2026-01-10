@@ -49,3 +49,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neo-ayush-jha&show_icons=true&locale=en" alt="neo-ayush-jha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neo-ayush-jha&" alt="neo-ayush-jha" /></p>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-ayush-jha&layout=compact"
+  alt="Top Languages"
+  style="width:100%; max-width:500px;"
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=neo-ayush-jha"
+  alt="GitHub Streak"
+  style="width:100%; max-width:500px;"
+/>
